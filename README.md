@@ -1,4 +1,4 @@
 # python-calculator
 A cool little simple .py file that uses 2 numbers and then ask what to do with them (+, *, -, /,)
 
-# hope yall like this !
+# hope this is useful for anyone ! <3
